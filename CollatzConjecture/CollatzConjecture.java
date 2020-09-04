@@ -10,7 +10,7 @@ public class CollatzConjecture {
         int n=0;
         int i=0;
 
-        System.out.println("\nCollatz Conjecture calculator - Orlando Autiero\n");
+        System.out.println("\nCollatz Conjecture calculator - WozniH4CK\n");
         System.out.print("Input --> ");
         n=in.nextInt(); 
         in.close();
